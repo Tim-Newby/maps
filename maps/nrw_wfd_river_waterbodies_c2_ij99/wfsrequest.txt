@@ -1,0 +1,1 @@
+https://datamap.gov.wales/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Anrw_wfd_river_waterbodies_c2_ij99&outputFormat=SHAPE-ZIP&srs=EPSG%3A27700&format_options=charset%3AUTF-8
